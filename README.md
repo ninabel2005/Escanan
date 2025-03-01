@@ -16,4 +16,4 @@ Hello World I am Nina Isabel E.Escanan, a 1st Year Student under the Course Of B
 # My Projects
 Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL]()
 
-Midterm Lab Task 2: Data Cleaning and Preparation using POWER QUERY
+Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY[ ()
