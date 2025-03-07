@@ -11,6 +11,6 @@ Hello World I am Nina Isabel E.Escanan, a 1st Year Student under the Course Of B
 - **Elementary: Northville 15 Integrated School**
 
 # My Projects
-Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Task%201/Readme.md)
+Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/ninabel2005/Escanan/tree/24855431b700069e5d11c7a7e647cc33d76f2622/Midterm1)
 
 Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY]()
