@@ -86,4 +86,4 @@ sponsor_name VARCHAR (255) NOT NULL
 
 ## Here's the Screenshot for the EDR (See Screenshot) ##
 
-<img src="" align="center" height="350" width="600"/>
+<img src="https://github.com/ninabel2005/Escanan/blob/main/Final%20Lab%20Task%201/images2/ERD.jpg" align="center" height="350" width="600"/>
