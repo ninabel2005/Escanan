@@ -51,7 +51,7 @@ View of the raw dataset before any transformations:
 
 **After Data Cleaning**  
 View of the dataset post-cleaning and transformation:  
-<img src="" align="center" height="350" width="600"/>
+<img src="https://github.com/ninabel2005/Escanan/blob/main/Midterm%20Task%202/Imagesmd2/Uncleaned_data%20(1).jpg" align="center" height="350" width="600"/>
 
 ---
 
@@ -78,5 +78,5 @@ View of the dataset post-cleaning and transformation:
 ## Physical Data Model
 
 (Insert the physical data model screenshot below)  
-<img src="" align="center" height="350" width="600"/>
+<img src="https://github.com/ninabel2005/Escanan/blob/main/Midterm%20Task%202/Imagesmd2/Physical%20Model.jpg" align="center" height="400" width="600"/>
 
