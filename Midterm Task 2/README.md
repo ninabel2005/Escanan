@@ -47,7 +47,7 @@ In this task, we worked with a raw dataset titled **Uncleaned_DS_jobs.csv**. The
 
 **Before Data Cleaning**  
 View of the raw dataset before any transformations:  
-<img src="" align="center" height="350" width="600"/>
+<img src="https://github.com/ninabel2005/Escanan/blob/main/Midterm%20Task%202/Imagesmd2/Uncleaned_data%20(1).jpg" align="center" height="350" width="600"/>
 
 **After Data Cleaning**  
 View of the dataset post-cleaning and transformation:  
@@ -59,19 +59,19 @@ View of the dataset post-cleaning and transformation:
 
 - **Salary by Role Type (dup):**  
   A query displaying categorized job roles and their respective salary data  
-  <img src="" align="center" height="350" width="600"/>
+  <img src="https://github.com/ninabel2005/Escanan/blob/main/Midterm%20Task%202/Imagesmd2/Sal%20by%20role%20type%20dup.png" align="center" height="350" width="600"/>
 
 - **Salary by Company Size (ref):**  
   A query analyzing salaries based on company size or a related metric  
-  <img src="" align="center" height="350" width="600"/>
+  <img src="https://github.com/ninabel2005/Escanan/blob/main/Midterm%20Task%203/Imagesmd2/Sal%20by%20size%20ref.png" align="center" height="350" width="600"/>
 
 - **Salary by State (ref):**  
   A query that breaks down salary data by geographical location  
-  <img src="" align="center" height="350" width="600"/>
+  <img src="https://github.com/ninabel2005/Escanan/blob/main/Midterm%20Task%203/Imagesmd2/sal%20by%20state%20ref.png" align="center" height="350" width="600"/>
 
 - **Original Dataset - Uncleaned DS Jobs:**  
   Snapshot of the raw dataset before any data manipulation  
-  <img src="" align="center" height="350" width="600"/>
+  <img src="https://github.com/ninabel2005/Escanan/blob/main/Midterm%20Task%203/Imagesmd2/Uncleaned%20DS%20Jobs.jpg" align="center" height="350" width="600"/>
 
 ---
 
