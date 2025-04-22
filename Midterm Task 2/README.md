@@ -63,15 +63,15 @@ View of the dataset post-cleaning and transformation:
 
 - **Salary by Company Size (ref):**  
   A query analyzing salaries based on company size or a related metric  
-  <img src="https://github.com/ninabel2005/Escanan/blob/main/Midterm%20Task%203/Imagesmd2/Sal%20by%20size%20ref.png" align="center" height="350" width="600"/>
+  <img src="https://github.com/ninabel2005/Escanan/blob/main/Midterm%20Task%202/Imagesmd2/Sal%20by%20size%20ref.png" align="center" height="350" width="600"/>
 
 - **Salary by State (ref):**  
   A query that breaks down salary data by geographical location  
-  <img src="https://github.com/ninabel2005/Escanan/blob/main/Midterm%20Task%203/Imagesmd2/sal%20by%20state%20ref.png" align="center" height="350" width="600"/>
+  <img src="https://github.com/ninabel2005/Escanan/blob/main/Midterm%20Task%202/Imagesmd2/sal%20by%20state%20ref.png" align="center" height="350" width="600"/>
 
 - **Original Dataset - Uncleaned DS Jobs:**  
   Snapshot of the raw dataset before any data manipulation  
-  <img src="https://github.com/ninabel2005/Escanan/blob/main/Midterm%20Task%203/Imagesmd2/Uncleaned%20DS%20Jobs.jpg" align="center" height="350" width="600"/>
+  <img src="https://github.com/ninabel2005/Escanan/blob/main/Midterm%20Task%202/Imagesmd2/Uncleaned%20DS%20Jobs.jpg" align="center" height="350" width="600"/>
 
 ---
 
