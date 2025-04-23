@@ -17,13 +17,13 @@ In this task, we focused on building a dynamic and interactive dashboard using *
 We created several Pivot Tables to analyze salary data based on different dimensions:
 
 - **Salary by Role**  
-  <img src="" align="center" height="350" width="600"/>
+  <img src="https://github.com/ninabel2005/Escanan/blob/main/Midterm%20Task%203/Imagesmd3/490988719_1019296423482517_1660200255579732695_n.png" align="center" height="350" width="600"/>
 
 - **Salary by State**  
-  <img src="" align="center" height="350" width="600"/>
+  <img src="https://github.com/ninabel2005/Escanan/blob/main/Midterm%20Task%203/Imagesmd3/491123702_623296474041429_1719909063437233743_n.png" align="center" height="350" width="600"/>
 
 - **Salary by Company Size**  
-  <img src="" align="center" height="350" width="600"/>
+  <img src="https://github.com/ninabel2005/Escanan/blob/main/Midterm%20Task%203/Imagesmd3/490994684_1216869259795120_2076760707642716354_n.png" align="center" height="350" width="600"/>
 
 ---
 
@@ -67,5 +67,5 @@ We created several Pivot Tables to analyze salary data based on different dimens
 
 Here is the completed interactive dashboard showcasing salary data across various dimensions:
 
-<img src="" height="450" width="900"/>
+<img src="https://github.com/ninabel2005/Escanan/blob/main/Midterm%20Task%203/Imagesmd3/490993869_531798073097675_1842138747631855307_n.png" height="450" width="900"/>
 
