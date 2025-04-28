@@ -49,4 +49,4 @@ SHOW TABLES;
 
 ## Here's the ERD ## 
 
- <img src="" alt="Alt Text" width="800" height="400"> 
+ <img src="https://github.com/ninabel2005/Escanan/blob/main/Final%20Task%202/files2/image%20(1).png" alt="Alt Text" width="800" height="400"> 
