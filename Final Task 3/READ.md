@@ -58,7 +58,7 @@ This command increases the size of the product_name column from 100 to 120 chara
 ## Task 3 - Table Diagram ## 
 Here’s a diagram showing the table structure:
 
- <img src="" alt="Alt Text" width="800" height="400"> 
+ <img src="https://github.com/ninabel2005/Escanan/blob/main/Final%20Task%203/Files/image.png" alt="Alt Text" width="800" height="400"> 
 
  
 This diagram helps to visualize the table and its columns.
