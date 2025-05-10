@@ -8,10 +8,9 @@
 
 **Queries:**
 ```sql
--- List employee names and salaries ordered by salary (highest first)
+
 SELECT employee_name, salary FROM EmployeeSalaries ORDER BY salary DESC;
 
--- Average salary per department
 SELECT department, AVG(salary) AS average_salary FROM EmployeeSalaries GROUP BY department;
 ```
 
@@ -64,16 +63,15 @@ INSERT INTO EmployeeSalaries (employee_name, department, salary, hire_date) VALU
 
 **Queries:**
 ```sql
--- List employee full names and salaries ordered by salary (highest first)
+
 SELECT full_name, salary FROM EmployeeData ORDER BY salary DESC;
 
--- Average salary above 70,000
+
 SELECT AVG(salary) AS average_salary FROM EmployeeData HAVING average_salary > 70000;
 
--- Employees with salary above 100,000
 SELECT full_name FROM EmployeeData WHERE salary > 100000;
 
--- Count of employees
+
 SELECT COUNT(employee_id) AS number_of_employees FROM EmployeeData;
 ```
 
