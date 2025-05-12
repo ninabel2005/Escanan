@@ -16,6 +16,7 @@
 <img src="https://github.com/ninabel2005/Escanan/blob/main/Final%20Task%205/filestask5/q2.png" alt="Alt Text" width="800" height="400"> 
 
 **Output**
+
 <img src="https://github.com/ninabel2005/Escanan/blob/main/Final%20Task%205/filestask5/Q2.png" alt="Alt Text" width="800" height="400"> 
 
 3. Create a VIEW that will COMPUTE for the (TOTAL_PRICE) of ALL PRODUCTS by getting the (P_ONHAND x P_PRICE) Sold by vendors with the following v_code (21344, 23119 and 24288)
