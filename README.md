@@ -21,7 +21,7 @@ Final Lab Task 1 :[ Events Management DB](https://github.com/ninabel2005/Escanan
 
 Final Lab Task 2 :[Transforming ER Model to Relational Tables](https://github.com/ninabel2005/Escanan/tree/main/Final%20Task%202)
 
-Final Lab Task 3 :[]()
+Final Lab Task 3 :[ Table Manipulation](https://github.com/ninabel2005/Escanan/blob/main/Final%20Task%203/READ.md?plain=1)
 
 Final Lab Task 4 :[Employee Databases](https://github.com/ninabel2005/Escanan/tree/main/Final%20Task%204)
 
