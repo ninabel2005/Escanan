@@ -17,12 +17,12 @@ Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://gi
 
 Midterm Lab Task 3: [Creating Pivot Tables and Dashboard](https://github.com/ninabel2005/Escanan/tree/main/Midterm%20Task%203)
 
-Final Lab Task 1 :[]()
+Final Lab Task 1 :[ Events Management DB](https://github.com/ninabel2005/Escanan/tree/main/Final%20Lab%20Task%201)
 
-Final Lab Task 2 :[]()
+Final Lab Task 2 :[Transforming ER Model to Relational Tables](https://github.com/ninabel2005/Escanan/tree/main/Final%20Task%202)
 
 Final Lab Task 3 :[]()
 
-Final Lab Task 4 :[]()
+Final Lab Task 4 :[Employee Databases](https://github.com/ninabel2005/Escanan/tree/main/Final%20Task%204)
 
-Final Lab Task 5 :[]()
+Final Lab Task 5 :[ Using SQL views and Stored Procedures and Stored Functions](https://github.com/ninabel2005/Escanan/tree/main/Final%20Task%205)
